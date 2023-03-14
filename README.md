@@ -10,4 +10,4 @@ HTML CSS3 VE BOOTSTRAP KÜTÜPHANESİ VE ANİMASYON TEKNOLOJİSİNDEN YARARLANIL
 
 <h1>EKRAN GİFİ</h1>
 
-<img = "/img/paylaştıkça.gif">
+<img src="/img/paylaştıkça.gif">
